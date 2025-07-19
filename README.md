@@ -48,10 +48,6 @@ It's a perfect fit for a web development portfolio, demonstrating capabilities i
 - **Clean, Responsive, and User-Friendly UI**
 - **Dynamic Data Display**
 
----
-
-## Screenshots
-
 
 ---
 
@@ -63,3 +59,20 @@ It's a perfect fit for a web development portfolio, demonstrating capabilities i
    cd Weather-App
    ```
 2. **Running on Local Host**
+3. **Display Image**
+
+---
+## Screenshots
+
+![Main Page](Images/screenshot-homepage.png) 
+![Page](Images/screenshot-homepage.png) 
+![Page](Images/screenshot-homepage.png) 
+
+---
+## Video 
+
+<video width="600" controls>
+  <source src="Images/demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
