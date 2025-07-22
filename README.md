@@ -64,15 +64,19 @@ It's a perfect fit for a web development portfolio, demonstrating capabilities i
 ---
 ## Screenshots
 
-![Main Page](Images/screenshot-homepage.png) 
-![Page](Images/screenshot-homepage.png) 
-![Page](Images/screenshot-homepage.png) 
+![Main Page](Images/Home%20Page%201.png) 
+![Main Page 2](Images/Home%20Page.png) 
+![Seach with City Name](Images/Forecast%20with%20city%20name.png) 
+![Search with current Loaction](Images/Current%20Location.png) 
+![Access request](Images/Location%20Access%20request.png) 
+![Global Weather](Images/Global%20Weather.png) 
 
 ---
-## Video 
+##  Video Demo
 
-<video width="600" controls>
-  <source src="Images/demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+Check out the working demo of WeatherApp in action:
+
+[Click here to watch the video demo](https://kennesawedu-my.sharepoint.com/:v:/g/personal/sshamsha_students_kennesaw_edu/ESGxXgYlGc9HnyJe7GzVf3EBmDOSQybD82VJwgLv71oOFA?e=2OpaWI&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)  
+
+---
 
